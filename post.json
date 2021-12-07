@@ -1,0 +1,17 @@
+[
+  {
+    "title": "1st Post title",
+    "body": "1st Post body ",
+    "tag": "codding"    
+  },
+  {
+    "title": "2nd Post title",
+    "body": "2nd Post body",
+    "tag": "cooking"    
+  },
+  {
+    "title": "3rd Post title",
+    "body": "3rd Post body",
+    "tag": "cars"    
+  }
+]
